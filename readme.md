@@ -8,6 +8,7 @@ Rr. "Xhevë Lladrovci"
 
 O-72217092-00390-3
 LAMET 
+246/2025
 
 ```
 
